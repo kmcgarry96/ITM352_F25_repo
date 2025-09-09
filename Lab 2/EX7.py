@@ -1,4 +1,4 @@
-# ask the user to enter a te,prature in degrees Fahrenheit. Convert the value to degrees Celsius and return the value to the user, rounded to 2 decimal places.
+# ask the user to enter a temperature in degrees Fahrenheit. Convert the value to degrees Celsius and return the value to the user, rounded to 2 decimal places.
 # Name: Kyle McGarry
 # Date: 9/3/25
 
