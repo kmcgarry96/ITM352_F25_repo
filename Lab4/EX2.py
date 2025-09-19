@@ -14,3 +14,9 @@ response_values.sort()
 
 
 print("combined response values and ID's:", response_values)
+
+# 3.3. Define a list and a tuple, append the tuple to the list, and print the list
+response_values = [5, 7, 3, 8]
+respondent_ids = (1012, 1035, 1021, 1053)
+response_values.append(respondent_ids)
+print("List after appending tuple:", response_values)
