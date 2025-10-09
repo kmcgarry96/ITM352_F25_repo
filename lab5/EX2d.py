@@ -1,4 +1,4 @@
-# create a list of dictionaries from the given dictionary
+# create a string of dictionaries from the given dictionary
 #name: kyle McGarry
 #date: 9/24/25
 
@@ -10,4 +10,4 @@ trips = [{'miles': 1.1, 'duration': 6.25},
 
 
 
-print(f'the first trip was {trips[0]["miles"]} miles and cost ${trips[0]["duration"]}.')
+print(f'the first trip was {str(trips[0]["miles"])} miles and cost ${str(trips[0]["duration"])}.')
