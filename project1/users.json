@@ -1,0 +1,20 @@
+{
+  "users": {
+    "kyle": {
+      "high_score": 8,
+      "games_played": 2
+    },
+    "mary": {
+      "high_score": 2,
+      "games_played": 1
+    },
+    "steve": {
+      "high_score": 2,
+      "games_played": 1
+    }
+  },
+  "grand_champion": {
+    "name": "kyle",
+    "score": 8
+  }
+}
