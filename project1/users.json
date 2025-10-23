@@ -5,16 +5,24 @@
       "games_played": 2
     },
     "mary": {
+      "high_score": 7,
+      "games_played": 2
+    },
+    "steve": {
       "high_score": 2,
       "games_played": 1
     },
-    "steve": {
+    "mark": {
+      "high_score": 10,
+      "games_played": 1
+    },
+    "kate": {
       "high_score": 2,
       "games_played": 1
     }
   },
   "grand_champion": {
-    "name": "kyle",
-    "score": 8
+    "name": "mark",
+    "score": 10
   }
 }

@@ -7,7 +7,6 @@
 # due 10/14/25
 
 
-
 # AI USAGE DOCUMENTATION:
 #
 # AI Tool Used: GitHub Copilot
