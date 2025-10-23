@@ -1,4 +1,4 @@
-# read a file of questions from a sson file and save them 
+# read a file of questions from a json file and save them 
 # in a dictionary. print the dictionary to the console.
 import json
 
