@@ -1,0 +1,16 @@
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Data files (do not commit large data)
+*.json
+*.csv
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
