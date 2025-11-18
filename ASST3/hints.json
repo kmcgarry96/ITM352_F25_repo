@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which element has the chemical symbol \"Na\"?",
+    "hint": "Think of table salt — its chemical name is sodium."
+  },
+  {
+    "question": "Who wrote the novel \"1984\"?",
+    "hint": "The author is famous for writing about dystopian futures and surveillance."
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "hint": "It's not Toronto; the capital is a smaller city in Ontario."
+  },
+  {
+    "question": "In which year was the first iPhone released?",
+    "hint": "This was in the late 2000s, just before 2008."
+  },
+  {
+    "question": "In computing, what does \"HTTP\" stand for?",
+    "hint": "The phrase begins with 'HyperText' and refers to a protocol for the web."
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "hint": "This ocean covers more area than all the land combined and is named for its peacefulness."
+  },
+  {
+    "question": "Which scientist developed the theory of general relativity?",
+    "hint": "This scientist is famous for E=mc^2 and a distinctive hairstyle."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "hint": "This planet is named after the Roman god of war and appears reddish in the sky."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "hint": "It's a gas giant with a big red storm and many moons."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "hint": "The artist was a Renaissance inventor and painter named Leonardo."
+  }
+]
